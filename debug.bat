@@ -1,0 +1,1 @@
+C:\Users\yuri.okulovsky\Desktop\ulearn\src\CourseTool\bin\Debug\course monitor
